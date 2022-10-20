@@ -1,6 +1,8 @@
 # GhostHousePong
 Ghost House Pong is a small-scale Unity tennis game I developed in early 2022 as part of a Game Jam. Its main game mode is flexible with numerous customization options, local multiplayer with controller support, and a rudimentary AI to play against.
 
+This repository contains the project folder and all accompanying files. For a playable build, visit the game's **itch.io** page listed below.
+
 **Main Page:** https://lucaspucas.itch.io/ghost-house-pong
 
 HOW TO PLAY
